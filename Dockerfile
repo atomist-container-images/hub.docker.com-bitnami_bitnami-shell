@@ -1,11 +1,20 @@
-# Tags: latest, 10-debian-10-r410, 10-debian-10, 10
+# Tags: latest, 10-debian-10-r413, 10-debian-10, 10
 FROM bitnami/bitnami-shell:latest
-FROM bitnami/bitnami-shell:10-debian-10-r410
+FROM bitnami/bitnami-shell:10-debian-10-r413
 FROM bitnami/bitnami-shell:10-debian-10
 FROM bitnami/bitnami-shell:10
 
 # Tags: _
 FROM bitnami/bitnami-shell:_
+
+# Tags: 10-debian-10-r412
+FROM bitnami/bitnami-shell:10-debian-10-r412
+
+# Tags: 10-debian-10-r411
+FROM bitnami/bitnami-shell:10-debian-10-r411
+
+# Tags: 10-debian-10-r410
+FROM bitnami/bitnami-shell:10-debian-10-r410
 
 # Tags: 10-debian-10-r409
 FROM bitnami/bitnami-shell:10-debian-10-r409
@@ -81,18 +90,3 @@ FROM bitnami/bitnami-shell:10-debian-10-r386
 
 # Tags: 10-debian-10-r385
 FROM bitnami/bitnami-shell:10-debian-10-r385
-
-# Tags: 10-debian-10-r384
-FROM bitnami/bitnami-shell:10-debian-10-r384
-
-# Tags: 10-debian-10-r383
-FROM bitnami/bitnami-shell:10-debian-10-r383
-
-# Tags: 10-debian-10-r382
-FROM bitnami/bitnami-shell:10-debian-10-r382
-
-# Tags: 10-debian-10-r381
-FROM bitnami/bitnami-shell:10-debian-10-r381
-
-# Tags: 10-debian-10-r380
-FROM bitnami/bitnami-shell:10-debian-10-r380
