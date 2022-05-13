@@ -1,11 +1,41 @@
-# Tags: latest, 10-debian-10-r414, 10-debian-10, 10
+# Tags: latest, 10-debian-10-r424, 10-debian-10, 10
 FROM bitnami/bitnami-shell:latest
-FROM bitnami/bitnami-shell:10-debian-10-r414
+FROM bitnami/bitnami-shell:10-debian-10-r424
 FROM bitnami/bitnami-shell:10-debian-10
 FROM bitnami/bitnami-shell:10
 
 # Tags: _
 FROM bitnami/bitnami-shell:_
+
+# Tags: 10-debian-10-r423
+FROM bitnami/bitnami-shell:10-debian-10-r423
+
+# Tags: 10-debian-10-r422
+FROM bitnami/bitnami-shell:10-debian-10-r422
+
+# Tags: 10-debian-10-r421
+FROM bitnami/bitnami-shell:10-debian-10-r421
+
+# Tags: 10-debian-10-r420
+FROM bitnami/bitnami-shell:10-debian-10-r420
+
+# Tags: 10-debian-10-r419
+FROM bitnami/bitnami-shell:10-debian-10-r419
+
+# Tags: 10-debian-10-r418
+FROM bitnami/bitnami-shell:10-debian-10-r418
+
+# Tags: 10-debian-10-r417
+FROM bitnami/bitnami-shell:10-debian-10-r417
+
+# Tags: 10-debian-10-r416
+FROM bitnami/bitnami-shell:10-debian-10-r416
+
+# Tags: 10-debian-10-r415
+FROM bitnami/bitnami-shell:10-debian-10-r415
+
+# Tags: 10-debian-10-r414
+FROM bitnami/bitnami-shell:10-debian-10-r414
 
 # Tags: 10-debian-10-r413
 FROM bitnami/bitnami-shell:10-debian-10-r413
@@ -63,33 +93,3 @@ FROM bitnami/bitnami-shell:10-debian-10-r396
 
 # Tags: 10-debian-10-r395
 FROM bitnami/bitnami-shell:10-debian-10-r395
-
-# Tags: 10-debian-10-r394
-FROM bitnami/bitnami-shell:10-debian-10-r394
-
-# Tags: 10-debian-10-r393
-FROM bitnami/bitnami-shell:10-debian-10-r393
-
-# Tags: 10-debian-10-r392
-FROM bitnami/bitnami-shell:10-debian-10-r392
-
-# Tags: 10-debian-10-r391
-FROM bitnami/bitnami-shell:10-debian-10-r391
-
-# Tags: 10-debian-10-r390
-FROM bitnami/bitnami-shell:10-debian-10-r390
-
-# Tags: 10-debian-10-r389
-FROM bitnami/bitnami-shell:10-debian-10-r389
-
-# Tags: 10-debian-10-r388
-FROM bitnami/bitnami-shell:10-debian-10-r388
-
-# Tags: 10-debian-10-r387
-FROM bitnami/bitnami-shell:10-debian-10-r387
-
-# Tags: 10-debian-10-r386
-FROM bitnami/bitnami-shell:10-debian-10-r386
-
-# Tags: 10-debian-10-r385
-FROM bitnami/bitnami-shell:10-debian-10-r385
